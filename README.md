@@ -71,3 +71,7 @@ Above image shows the average trip duration by age.
 The image above shows the utilization of each Citi Bike in New York City. The darker the orage color gets, the more the citi bike is used.
 
 From this analysis, we can see that the Citi Bike business is a very successful one. There is a large percentage of people who subscribe to the bike-sharing and have a plan so they have access to use a citi bike. We can also see that males are the highest user of the citi bikes. Bikes are used the most on weekdays and during the hours that people are going to work and even more when people are getting off from work. Overall, this analysis helps to show that the bike-sharing business can also be a sucess in Des Moines, Iowa, as it is in New York.
+
+
+## Link to Final Project on Tableau
+https://public.tableau.com/app/profile/christelle.georges/viz/BikeTripAnalysis_16493873849360/BikeTripAnalysis
